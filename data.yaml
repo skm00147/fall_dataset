@@ -1,5 +1,5 @@
 train: ../fall_dataset/train/images
 val: ../fall_dataset/val/images
 
-nc: 3
-names: ['fall', 'not_fallen', 'rescued']
+nc: 2
+names: ['fall', 'not_fallen']
